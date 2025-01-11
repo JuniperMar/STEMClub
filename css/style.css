@@ -668,7 +668,7 @@ strong {
 
 /*-- Background Image Section  --*/
 .section-bg-image {
-  background-image: url("/images/computerBackground.jpg"); /* Change background image here!!! */
+  background-image: url('../images/computerBackground.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
