@@ -15,11 +15,11 @@
 
   
   --h1-font-size:                 42px;
-  --h2-font-size:                 36px;
+  --h2-font-size:                 50px;
   --h3-font-size:                 28px;
   --h4-font-size:                 24px;
   --h5-font-size:                 22px;
-  --h6-font-size:                 100px; /* title */
+  --h6-font-size:                 80px; /* title */
   --p-font-size:                  18px;
   --menu-font-size:               16px;
   --btn-font-size:                14px;
@@ -665,7 +665,7 @@ strong {
   z-index: 22;
 }
 
-
+h
 /*-- Background Image Section  --*/
 .section-bg-image {
   background-image: url('../images/computerBackground.jpg');
@@ -1140,7 +1140,7 @@ strong {
   }
 
   h6 {
-    font-size: 16px;
+    font-size: 50px;
   }
 
   .section-padding {
